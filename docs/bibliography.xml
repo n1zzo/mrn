@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<b:Sources xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" SelectedStyle="">
+    <b:Source>
+        <b:Year>2024</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>VORON ZERO ASSEMBLY MANUAL</b:Title>
+        <b:Tag>Nemgrea2024</b:Tag>
+        <b:URL>https://raw.githubusercontent.com/VoronDesign/Voron-0/Voron0.2r1/Manuals/VORON_V0.2r1_Assembly_Manual.pdf</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Nemgrea</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Month>May</b:Month>
+        <b:PublicationTitle>VORON ZERO ASSEMBLY MANUAL</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2024</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Faulty Cat</b:Title>
+        <b:Tag>Faulty Cat </b:Tag>
+        <b:URL>https://github.com/ElectronicCats/faultycat</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>GitHub</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Month>October</b:Month>
+        <b:PublicationTitle>Faulty Cat</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2025</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Installing Marlin (PlatformIO with VSCode)</b:Title>
+        <b:URL>https://marlinfw.org/docs/basics/install_platformio.html</b:URL>
+        <b:Author/>
+        <b:PublicationTitle>Installing Marlin (PlatformIO with VSCode)</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>G-code Reference</b:Title>
+        <b:URL>snapmaker.github.io/Documentation/gcode/G000-G001</b:URL>
+        <b:Author/>
+        <b:PublicationTitle>G-code Reference</b:PublicationTitle>
+    </b:Source>
+</b:Sources>
